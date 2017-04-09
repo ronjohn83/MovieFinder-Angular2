@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+.jumbotron input{
+    padding-bottom: 10px;
+    margin-bottom:2vh;
+}
+.navbar{
+    margin-bottom:0px;
+}
+.caption h4{
+    min-height: 100px;
+}
+.caption p a{
+    margin-left: 0vw;
+}
+.thumbnail > img{
+    height: 220px;
+}
+.list-group {
+ 
+    width: 90%;
+    margin-left: 3vw;
+}
+.panel-default a{
+    margin-left: 3vw;
+}
